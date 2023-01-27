@@ -1,0 +1,16 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot-nightly",
+				"GitHub.copilot-labs",
+				"ms-toolsai.jupyter",
+				"ms-python.vscode-pylance",
+				"ms-python.python",
+				"ms-toolsai.jupyter-keymap",
+				"ms-toolsai.vscode-jupyter-cell-tags"
+			]
+		}
+	}
+}
